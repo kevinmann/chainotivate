@@ -27,6 +27,8 @@ gem 'haml'
 
 gem "haml-rails"
 
+gem "devise"
+
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
